@@ -5,13 +5,14 @@
     <link>https://www.example.com/</link>
     <description>Este es mi blog personal.</description>
     <language>es-es</language>
-    <lastBuildDate>Mon, 18 Apr 2023 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2023 12:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.example.com/blog-rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>Artículo Nº1: Descubriendo el Mundo</title>
       <link>https://www.example.com/blog-entry-1.html</link>
       <description>Explorando lugares fascinantes y compartiendo mis experiencias de viaje.</description>
-      <pubDate>Tue, 18 Apr 2023 12:00:00 GMT</pubDate>
+      <pubDate>Wed, 19 Apr 2023 12:00:00 GMT</pubDate>
       <guid>https://www.example.com/blog-entry-1.html</guid>
     </item>
 
@@ -19,7 +20,7 @@
       <title>Artículo Nº2: Recetas Deliciosas</title>
       <link>https://www.example.com/blog-entry-2.html</link>
       <description>Comparto mis recetas favoritas, desde postres hasta platos principales.</description>
-      <pubDate>Tue, 10 Apr 2023 12:00:00 GMT</pubDate>
+      <pubDate>Tue, 11 Apr 2023 12:00:00 GMT</pubDate>
       <guid>https://www.example.com/blog-entry-2.html</guid>
     </item>
 
@@ -27,7 +28,7 @@
       <title>Artículo Nº3: Reflexiones en la Naturaleza</title>
       <link>https://www.example.com/blog-entry-3.html</link>
       <description>Observaciones sobre la belleza natural que nos rodea y cómo nos conecta.</description>
-      <pubDate>Tue, 2 Apr 2023 12:00:00 GMT</pubDate>
+      <pubDate>Mon, 3 Apr 2023 12:00:00 GMT</pubDate>
       <guid>https://www.example.com/blog-entry-3.html</guid>
     </item>
   </channel>
